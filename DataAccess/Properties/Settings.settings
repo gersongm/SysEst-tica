@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataAccess.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=DESKTOP-08MUDHE \ BDSQL; database=vet_BD; integrated security = true</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
